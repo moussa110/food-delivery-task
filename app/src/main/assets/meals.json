@@ -1,0 +1,121 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "category": "Pizza",
+      "imageUrl": "https://britneybreaksbread.com/wp-content/uploads/2021/05/Roasted-Mushroom-and-Pepperoni-Pizza-2-683x1024.jpg",
+      "title": "Mediteraneo",
+      "details": "One of the simplest and most traditional pizzas is the Margherita, which is topped with tomatoes or tomato sauce",
+      "size": "230 gm , 15 cm",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "category": "Pizza",
+      "imageUrl": "https://britneybreaksbread.com/wp-content/uploads/2021/05/Roasted-Mushroom-and-Pepperoni-Pizza-2-683x1024.jpg",
+      "title": "Vegan Veggie",
+      "details": "Daiya vegan mozzarella, paired with fresh veggies",
+      "size": "230 gm , 15 cm",
+      "price": 15
+    },
+    {
+      "id": 3,
+      "category": "Pizza",
+      "imageUrl": "https://britneybreaksbread.com/wp-content/uploads/2021/05/Roasted-Mushroom-and-Pepperoni-Pizza-2-683x1024.jpg",
+      "title": "Daiya Vegan Mozzarella",
+      "details": "FILTERED WATER, TAPIOCA FLOUR, EXPELLER PRESSED NON-GMO CANOLA AND/OR SAFFLOWER OIL, COCONUT OIL, PEA PROTEIN,",
+      "size": "230 gm , 10 cm",
+      "price": 7
+    },
+    {
+      "id": 4,
+      "category": "Pizza",
+      "imageUrl": "https://britneybreaksbread.com/wp-content/uploads/2021/05/Roasted-Mushroom-and-Pepperoni-Pizza-2-683x1024.jpg",
+      "title": "Mediteraneo",
+      "details": "One of the simplest and most traditional pizzas is the Margherita, which is topped with tomatoes or tomato sauce",
+      "size": "230 gm , 15 cm",
+      "price": 10
+    },
+    {
+      "id": 5,
+      "category": "Pizza",
+      "imageUrl": "https://britneybreaksbread.com/wp-content/uploads/2021/05/Roasted-Mushroom-and-Pepperoni-Pizza-2-683x1024.jpg",
+      "title": "Vegan Veggie",
+      "details": "Daiya vegan mozzarella, paired with fresh veggies",
+      "size": "230 gm , 15 cm",
+      "price": 15
+    },
+    {
+      "id": 6,
+      "category": "Beef",
+      "imageUrl": "https://www.dinneratthezoo.com/wp-content/uploads/2018/06/slow-cooker-mongolian-beef.jpg",
+      "title": "Beef and Mustard Pi",
+      "details": "this is Beef dish description, this is Beef dish description ,this is Beef dish description",
+      "size": "230 gm , 15 cm",
+      "price": 10
+    },
+    {
+      "id": 7,
+      "category": "Beef",
+      "imageUrl": "https://www.dinneratthezoo.com/wp-content/uploads/2018/06/slow-cooker-mongolian-beef.jpg",
+      "title": "Beef and Oyster",
+      "details": "this is Beef dish description, this is Beef dish description ,this is Beef dish description",
+      "size": "230 gm , 15 cm",
+      "price": 15
+    },
+    {
+      "id": 8,
+      "category": "Beef",
+      "imageUrl": "https://www.dinneratthezoo.com/wp-content/uploads/2018/06/slow-cooker-mongolian-beef.jpg",
+      "title": "Beef and Mustard Pi",
+      "details": "this is Beef dish description, this is Beef dish description ,this is Beef dish description",
+      "size": "230 gm , 15 cm",
+      "price": 10
+    },
+    {
+      "id": 9,
+      "category": "Beef",
+      "imageUrl": "https://www.dinneratthezoo.com/wp-content/uploads/2018/06/slow-cooker-mongolian-beef.jpg",
+      "title": "Daiya Vegan Mozzarella",
+      "details": "FILTERED WATER, TAPIOCA FLOUR, EXPELLER PRESSED NON-GMO CANOLA AND/OR SAFFLOWER OIL, COCONUT OIL, PEA PROTEIN,",
+      "size": "230 gm , 10 cm",
+      "price": 7
+    },
+    {
+      "id": 10,
+      "category": "Seafood",
+      "imageUrl": "https://thumbs.dreamstime.com/b/paella-seafood-pan-food-restaurant-styling-meal-serving-213240160.jpg",
+      "title": "Baked salmon with fennel",
+      "details": "this is SeaFood dish description, this is Beef dish description ,this is Beef dish description",
+      "size": "230 gm , 15 cm",
+      "price": 10
+    },
+    {
+      "id": 11,
+      "category": "Seafood",
+      "imageUrl": "https://thumbs.dreamstime.com/b/paella-seafood-pan-food-restaurant-styling-meal-serving-213240160.jpg",
+      "title": "Cajun spiced fish",
+      "details": "this is SeaFood dish description, this is Beef dish description ,this is Beef dish description",
+      "size": "230 gm , 15 cm",
+      "price": 15
+    },
+    {
+      "id": 12,
+      "category": "Seafood",
+      "imageUrl": "https://thumbs.dreamstime.com/b/paella-seafood-pan-food-restaurant-styling-meal-serving-213240160.jpg",
+      "title": "Baked salmon with fennel",
+      "details": "this is SeaFood dish description, this is Beef dish description ,this is Beef dish description",
+      "size": "230 gm , 15 cm",
+      "price": 10
+    },
+    {
+      "id": 13,
+      "category": "Seafood",
+      "imageUrl": "https://thumbs.dreamstime.com/b/paella-seafood-pan-food-restaurant-styling-meal-serving-213240160.jpg",
+      "title": "Cajun spiced fish",
+      "details": "this is SeaFood dish description, this is Beef dish description ,this is Beef dish description",
+      "size": "230 gm , 15 cm",
+      "price": 15
+    }
+  ]
+}

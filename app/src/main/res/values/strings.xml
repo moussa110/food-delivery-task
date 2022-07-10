@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">zimozi delivery app</string>
+    <string name="added">added +1</string>
+    <array name="categories">
+        <item>Pizza</item>
+        <item>Beef</item>
+        <item>Seafood</item>
+        <item>Pizza</item>
+        <item>Beef</item>
+        <item>Seafood</item>
+    </array>
+
+    <array name="cart_list">
+        <item>Cart</item>
+        <item>Orders</item>
+        <item>Information</item>
+    </array>
+</resources>
